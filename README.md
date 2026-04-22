@@ -27,10 +27,10 @@ To run this project locally, simply clone the repository and open the `index.htm
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nexus-ecommerce.git
+git clone https://github.com/PranavKanungo1/Front-end_project.git
 
 # Navigate to the directory
-cd nexus-ecommerce
+cd Front-end_project
 
 # Open the project (or use a Live Server extension)
 # If you have Node.js installed, you can use npx:
